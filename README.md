@@ -4,6 +4,8 @@
 
 `streamlit run app.py` или `pdm streamlit run app.py`
 
+Приложение доступно по ссылке: https://mlai25-car-prediction-fnvsdovnksjhqbnmbcjsdbfjnd.streamlit.app/
+
 # **Анализ проекта: Предсказания стоимости автомобилей**
 
 ## 📊 **Что было сделано**
